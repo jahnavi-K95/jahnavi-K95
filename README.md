@@ -12,7 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jahnavi-kalli)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jahnavikalli5@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Minnesota%2C%20USA-008080?style=for-the-badge&logo=google-maps&logoColor=white)](https://google.com/maps)
-[![Resume](https://img.shields.io/badge/Resume-View%20Portfolio-FF5722?style=for-the-badge&logo=google-drive)](https://docs.google.com/document/d/1GAQOfUaFQJbIgzw_KXqD61FKtv54a6ux/edit?usp=sharing&ouid=106718991947663469051&rtpof=true&sd=true)
+[![Resume](https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=google-drive)](https://docs.google.com/document/d/1GAQOfUaFQJbIgzw_KXqD61FKtv54a6ux/edit?usp=sharing&ouid=106718991947663469051&rtpof=true&sd=true)
 
 ---
 </div>
